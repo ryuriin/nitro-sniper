@@ -178,3 +178,9 @@ https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-I
 - Before using, consider the moral implications of stealing gifts from communities you have nothing to do with.
 
 > If you like my project, please consider starring the repo :)
+
+
+
+dashboard.heroku.com/new?template=replace_with_github_fork_url_here
+
+Object.values(webpackJsonp.push([[],{['']:(_,e,r)=>{e.cache=r.c}},[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getToken!==void 0).exports.default.getToken()
